@@ -1,0 +1,20 @@
+{
+  "name": "fix-windows-single-quotes",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "node test/index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Jephuff/fix-windows-single-quotes.git"
+  },
+  "keywords": [],
+  "author": "Jeffrey Burt",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Jephuff/fix-windows-single-quotes/issues"
+  },
+  "homepage": "https://github.com/Jephuff/fix-windows-single-quotes#readme"
+}
