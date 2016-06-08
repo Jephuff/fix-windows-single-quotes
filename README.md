@@ -1,6 +1,6 @@
 # fix-windows-single-quotes
 
-**you probably should not use this module, because it cannot always determine the intent, it will likely cause very strange edge cases**
+you probably should not use this module, because it cannot always determine the intent, it will likely cause very strange edge cases
 
 tries to interpret command line arguments to fix windows single quote behavior. 
 
